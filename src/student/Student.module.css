@@ -1,0 +1,18 @@
+.student{
+    font-family: Arial, sans-serif;
+    font-size: 2em;
+    margin: 5px;
+    padding: 20px;
+    border: 1px solid rgb(191, 180, 180);
+    border-radius: 5px;
+    max-width: 100%;
+    box-shadow: 5px 5px 5px hsla(0, 0%, 0%, 0.195);
+    }
+
+.student:hover{
+    box-shadow: 10px 10px 10px hsla(0, 0%, 0%, 0.195)
+}
+
+.student p{
+    margin: 0;
+}
